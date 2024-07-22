@@ -10,8 +10,3 @@
 - 🌱 I’m currently learning Computer Science...
 - 💞️ I’m looking to collaborate.
 - ![Tarllis's GitHub stats](https://github-readme-stats.vercel.app/api?username=tarllis&show_icons=true&theme=merko)
-
-
-- <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=[tarllis]&theme=github_dark" alt="[Tarllis]'s GitHub Stats"/>
-</div>
